@@ -1,0 +1,29 @@
+body{
+    background-image: url(fundotabletsemfundo.png);
+    background-repeat: no-repeat;
+}
+
+.container{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 46%;
+    margin: 15px;
+    margin-top: 90px;
+}
+
+section{
+    margin-left: 65px;
+    margin-right: 37%;
+    
+}
+
+li{
+    font-size: 25px;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
