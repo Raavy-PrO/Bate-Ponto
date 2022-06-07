@@ -8,4 +8,6 @@ script que eu peguei de exemplo foi : rb_ponto-master
 
 creditos:https://discord.gg/nfNE8ZNBZA
 
-ainda tem alguns bugs nÃo está 100% não chega nem em 10%
+ainda tem alguns bugs nÃo está 100%, não chega nem em 10%...
+
+Ultima atualização 07/06/2022
